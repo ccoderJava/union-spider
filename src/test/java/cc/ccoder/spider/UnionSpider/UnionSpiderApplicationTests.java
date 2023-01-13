@@ -1,10 +1,10 @@
-package cc.ccoder.spider.spider;
+package cc.ccoder.spider.UnionSpider;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpiderApplicationTests {
+class UnionSpiderApplicationTests {
 
     @Test
     void contextLoads() {
